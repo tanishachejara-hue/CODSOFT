@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    background: #111;
+    color: white;
+    font-family: Arial;
+}
+
+h1 {
+    color: #00ffcc;
+}
+
+img {
+    border: 5px solid #00ffcc;
+    border-radius: 10px;
+    margin-top: 20px;
+}
